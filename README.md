@@ -7,3 +7,6 @@ Esta é a base para poder criar a parte de cadastro de empregos dentro do sistem
 ```php
 const $casadasogra = $dados.get('casadasogra');
 ```
+> O projeto está sendo desenvolvido com php 8.2.
+> O banco de dados é Mysql ou pode ser o Maria DB.
+> Nào estou utilizando composer.
