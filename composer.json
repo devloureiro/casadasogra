@@ -1,0 +1,15 @@
+{
+    "name": "osmarloureiro/casadasogra",
+    "description": "sistema de cadastro de empregos",
+    "autoload": {
+        "psr-4": {
+            "Osmarloureiro\\Casadasogra\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "antonio loureiro"
+        }
+    ],
+    "require": {}
+}
